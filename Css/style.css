@@ -1,0 +1,48 @@
+body{
+    background-color: #FE9A04;
+}
+
+main section div img{
+    width: 6.25rem;
+    height: 6.25rem;
+}
+main section p{
+    color: white;
+}
+footer{
+width: 90rem;
+height: 29.6875rem;
+text-align: center;
+}
+header h1{
+    color: #041026;
+    text-align: center;
+}
+header div nav {
+    text-align: center;
+}
+header div nav a{
+    margin: 50px 50px;
+}
+header div
+{
+    box-shadow: 5px 5px 10px rgba(39, 37, 37, 0.158);
+    margin: 20px 20px;
+
+}
+/*CLASES*/
+.color{
+    background-color: #041026;
+    width: 43.3vw;
+    height: 36.5vh;
+}
+.linea{
+    background-color: white;
+    width: 50vw;
+    height: .3125rem;
+}
+/*CLASES*/
+main section img{
+    width: 6.25rem;
+    height: 6.25rem;
+}
